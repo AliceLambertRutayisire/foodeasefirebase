@@ -1,16 +1,11 @@
-# project
+This is our submission for the Mobile Development Mini Project 2 assignment 
+Our app (FoodEase) was created to help ALU student and staff order food from the foodcourt vendors without having to spend uncessary time waiting on their orders. this would also allow the vendors digitalise the whole process seeing as they still use paper and pen to record orders.
 
-A new Flutter project.
 
-## Getting Started
+link to the figma design: https://www.figma.com/file/CMcWk97BmN96McspwDBe3T/FoodEase-UI-design-v1?node-id=0%3A1&t=C2t1FWzPsPjDe8RW-1
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Group 
+  members:
+    -Alice Lambert Rutayisire
+    -Cynthia Christelle Isaro
+    -Henos Tadesse
