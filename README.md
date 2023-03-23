@@ -1,4 +1,5 @@
 This is our submission for the Mobile Development Mini Project 2 assignment 
+
 Our app (FoodEase) was created to help ALU student and staff order food from the foodcourt vendors without having to spend uncessary time waiting on their orders. this would also allow the vendors digitalise the whole process seeing as they still use paper and pen to record orders.
 
 
